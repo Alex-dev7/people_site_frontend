@@ -1,5 +1,5 @@
 import { useLoaderData, Form } from "react-router-dom"
-import { personLoader } from "../loaders"
+
 
 
 function Show(props) {
